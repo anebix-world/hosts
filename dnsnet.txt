@@ -1,0 +1,5 @@
+# Hosts list for DNSnet https://f-droid.org/packages/dev.clombardo.dnsnet/
+# Made to combat other hosts unnecessarily blocking regular use domains
+
+# Search
+duckduckgo.com
